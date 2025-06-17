@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'Quem é o Rafael Biano?',
-    'O maior proggramador de todos'
+    'O maior programador de todos'
 )
 
 criaCartao(
